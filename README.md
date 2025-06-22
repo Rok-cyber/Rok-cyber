@@ -15,8 +15,8 @@ Currently, I work part-time at a **Cloud Engineering Lab**, where I explore **AW
 - **Databases:** MySQL  
 
 ### 📫 Contact  
-- GitHub: [https://github.com/yourusername](https://github.com/Rok-cyber))  
-- LinkedIn: [https://linkedin.com/in/yourname](https://www.linkedin.com/in/seongrok-lee-16063b257/))  
+- GitHub: [https://github.com/Rok-cyber](https://github.com/Rok-cyber))  
+- LinkedIn: [1](https://www.linkedin.com/in/seongrok-lee-16063b257/))  
 - Email: rokbnoc@gmail.com
 
 💡 **Always open to collaboration and learning new technologies!**
