@@ -1,7 +1,8 @@
-![Image](https://github.com/user-attachments/assets/de749831-c513-4639-989e-40f804b437c1)### Hi there! 👋  
+Hi, I'm Seongrok Lee.
 
-I'm a **Senior CS student at UW-Madison** with a passion for **Backend Development & Cloud Engineering**.  
-Currently, I work part-time at a **Cloud Engineering Lab**, where I explore **AWS, distributed systems, and DevOps**.  
+Junior Software Engineer at Digit Systems, building backend systems, deployment automation, and medical software infrastructure.
+
+M.S. in Artificial Intelligence (Expected 2028) at Columbia University.
 
 ### 🌱 Interests  
 - 🚀 **Backend Development** with **Spring Boot**  
