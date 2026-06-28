@@ -17,7 +17,7 @@ M.S. in Artificial Intelligence (Expected 2028) at Columbia University.
 
 ### 📫 Contact  
 - GitHub: [https://github.com/Rok-cyber](https://github.com/Rok-cyber))  
-- LinkedIn: [1](https://www.linkedin.com/in/seongrok-lee-16063b257/))  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/seongrok-lee-16063b257/))  
 - Email: rokbnoc@gmail.com
 
 💡 **Always open to collaboration and learning new technologies!**
