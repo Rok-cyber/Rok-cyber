@@ -1,91 +1,51 @@
-# Hi, I'm Seongrok Lee 👋
+# Seongrok Lee
 
-Junior Software Engineer at **Digit Systems**, building backend systems, deployment automation, and medical software infrastructure.
+Software engineer building **applied AI and production systems**—from structured AI reporting and evaluation to Linux deployment automation and operational testing.
 
-🎓 **M.S. in Artificial Intelligence (Expected 2028)**
-Columbia University
+Currently at **Digit Systems** and pursuing an **M.S. in Artificial Intelligence at Columbia University**.
 
----
+[Portfolio](https://www.seongroklee.com) · [LinkedIn](https://www.linkedin.com/in/seongrok-lee-16063b257/) · [Email](mailto:rokbnoc@gmail.com)
 
-## 🚀 About Me
+## Current focus
 
-I'm a software engineer passionate about backend development, infrastructure automation, and AI-powered applications.
+- Applied AI systems with explicit evaluation, safety, and human-review boundaries
+- Backend services, deployment automation, and observable field operations
+- AI governance, reliability, and the public futures shaped by deployed technology
 
-My recent work focuses on:
+## Selected work
 
-* Backend development
-* Linux & deployment automation
-* Medical software systems
-* AI applications and LLM integration
-* Cloud-based web services
+### [HTP AI Reflection Platform](https://www.seongroklee.com/projects/htp-ai-reflection)
 
----
+A portfolio-safe full-stack AI product that turns sensitive inputs into structured, non-diagnostic reflection reports.
 
-## 🌱 Interests
+- Angular, Node.js, TypeScript, MySQL, OpenAI Responses API
+- Typed report contracts, admin QA surfaces, and documented safety boundaries
+- [Public repository](https://github.com/Rok-cyber/HTP_Mind_Mirror)
 
-* Backend Engineering
-* AI Infrastructure & LLM Applications
-* Medical Software
-* Cloud Computing
-* Distributed Systems
+### [Production Deployment Automation](https://www.seongroklee.com/projects/production-deployment)
 
----
+A case study in replacing manual Raspberry Pi and Linux setup with repeatable first-boot automation, remote visibility, and end-to-end validation.
 
-## 🛠 Tech Stack
+- Python, Linux, Raspberry Pi, Node.js, WebSocket, Playwright
+- Public write-up intentionally omits customer, network, and proprietary implementation details
 
-### Languages
+### [TakeOutNote & Commerce](https://github.com/Rok-cyber/TakeOutNote)
 
-Java • Python • JavaScript • SQL • PHP
+A cloud-deployed full-stack project combining note workflows, file uploads, authentication, search, and commerce on a relational data model.
 
-### Backend
+- PHP, MySQL, JavaScript, JWT, AWS EC2/RDS
 
-Spring Boot • Node.js • REST APIs • JWT
+## Writing
 
-### Infrastructure
+- [From AI Demos to Reliable Systems: Four Signals from July 2026](https://www.seongroklee.com/en/blog/ai-engineering-signals-july-2026)
+- [Korean writing archive](https://www.seongroklee.com/blog)
+- [Urban and cultural-heritage research](https://www.seongroklee.com/research)
 
-Linux • Docker • Raspberry Pi • Playwright
+## Core stack
 
-### Cloud & Database
+**Languages:** Python, Java, TypeScript, JavaScript, SQL, PHP  
+**Systems:** Node.js, Spring Boot, Linux, Docker, Raspberry Pi, Playwright  
+**Data & AI:** MySQL, MariaDB, OpenAI API, PyTorch, Hugging Face  
+**Cloud:** AWS EC2, RDS
 
-AWS • MySQL • MariaDB
-
-### AI
-
-OpenAI API • PyTorch • Hugging Face
-
----
-
-## 📂 Featured Projects
-
-* 🤖 **HTP AI Reflection Platform**
-
-  * AI-powered reflection platform with 3,000+ generated reports
-  * Angular, Node.js, MariaDB, OpenAI API
-
-* 🛒 **TakeOutNote & E-Commerce Shop**
-
-  * Full-stack PHP & MySQL application
-  * JWT authentication
-  * AWS EC2/RDS deployment
-
----
-
-## 📫 Connect with Me
-
-* GitHub: https://github.com/Rok-cyber
-* LinkedIn: https://www.linkedin.com/in/seongrok-lee-16063b257
-* Email: [rokbnoc@gmail.com](mailto:rokbnoc@gmail.com)
-
----
-
-> Always learning, always building, and always looking for opportunities to solve real-world problems through software.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-
+> A good system must do more than function: it must be deployable, observable, and accountable.
