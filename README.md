@@ -43,9 +43,9 @@ A cloud-deployed full-stack project combining note workflows, file uploads, auth
 
 ## Core stack
 
-**Languages:** Python, Java, TypeScript, JavaScript, SQL, PHP  
-**Systems:** Node.js, Spring Boot, Linux, Docker, Raspberry Pi, Playwright  
-**Data & AI:** MySQL, MariaDB, OpenAI API, PyTorch, Hugging Face  
-**Cloud:** AWS EC2, RDS
+- **Languages:** Python, Java, TypeScript, JavaScript, SQL, PHP
+- **Systems:** Node.js, Spring Boot, Linux, Docker, Raspberry Pi, Playwright
+- **Data & AI:** MySQL, MariaDB, OpenAI API, PyTorch, Hugging Face
+- **Cloud:** AWS EC2, RDS
 
 > A good system must do more than function: it must be deployable, observable, and accountable.
