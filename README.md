@@ -1,6 +1,8 @@
 # Seongrok Lee
 
-Software engineer building **applied AI and production systems**—from structured AI reporting and evaluation to Linux deployment automation and operational testing.
+**Software Engineer | Backend, Applied AI & Automation | Python, TypeScript, Node.js**
+
+Building applied AI and production systems—from structured AI reporting and evaluation to backend services, Linux deployment automation, and operational testing.
 
 Currently at **Digit Systems** and pursuing an **M.S. in Artificial Intelligence at Columbia University**.
 
